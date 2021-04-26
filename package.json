@@ -1,5 +1,5 @@
 {
-  "name": "libp2p-websockets",
+  "name": "libp2p-websockets-curltech",
   "version": "0.15.6",
   "description": "JavaScript implementation of the WebSockets module that libp2p uses and that implements the interface-transport spec",
   "leadMaintainer": "Jacob Heun <jacobheun@gmail.com>",
